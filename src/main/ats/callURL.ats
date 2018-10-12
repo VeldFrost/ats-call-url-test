@@ -1,0 +1,17 @@
+[ats-header]
+
+id -> 
+author -> DESKTOP-3GS2C8F\Vindec
+created -> 2018-10-12 at 10:07:35
+prerequisite -> 
+description -> 
+groups -> default
+
+[ats-variables]
+
+
+[ats-actions]
+
+channel-start -> newChannel -> chrome
+goto-url -> https://www.google.fr/
+channel-close -> newChannel

@@ -1,0 +1,10 @@
+<atsProject>
+  <domain>com.functional</domain>
+  <name>ats_call_url_test</name>
+  <version>0.0.1</version>
+  <description>ATS project created with Agilitest Editor</description>
+  <groups>
+    <group>default</group>
+  </groups>
+  <environment/>
+</atsProject>
